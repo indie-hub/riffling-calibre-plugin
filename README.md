@@ -1,1 +1,1 @@
-# riffling-calibre-plugin
+# Riffling calibre plugin
