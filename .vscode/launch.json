@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["d:\\_personal\\The Clever Guts Diet - Dr. Michael Mosley (EPUB).epub"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

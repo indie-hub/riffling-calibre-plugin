@@ -1,6 +1,6 @@
 [submodule "external/ebooklib"]
 	path = external/ebooklib
-	url = https://github.com/aerkalov/ebooklib
+	url = https://github.com/indie-hub/ebooklib
 [submodule "external/Riffling"]
 	path = external/Riffling
-	url = https://github.com/Jwuthri/Riffling
+	url = https://github.com/indie-hub/Riffling
